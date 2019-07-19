@@ -12,5 +12,4 @@ while(i <= 10):
 	print(random.randint(tales, heads))
 	i += 1
 
-print("Number of heads:", heads)
-print("Number of tales:", tales)
+
